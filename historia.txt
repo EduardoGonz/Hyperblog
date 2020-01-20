@@ -1,5 +1,7 @@
-Esta es la historia de Eduardo Gonzalez
+﻿Esta es la historia de Eduardo Gonzalez
 
 Eduardo Gonzalez tiene 25 años y nació en México
 
 Hoy empezara a estudiar git
+
+hoy hablaremos de su vida
